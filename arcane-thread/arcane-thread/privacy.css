@@ -1,0 +1,3 @@
+:root{color-scheme:dark}*{box-sizing:border-box}body{margin:0;background:#101a20;color:#f5eee0;font:17px/1.65 Georgia,serif}header,main{max-width:920px;margin:auto;padding:20px}h1,h2,h3,a{color:#e2bd77}h1{font-weight:400;margin:0}h2{font-size:1.7rem}h3{font-size:1.15rem;margin-top:1.7em}a{overflow-wrap:anywhere;text-underline-offset:4px}a:focus-visible{outline:3px solid white;outline-offset:4px}nav{font:16px/1.7 Arial,sans-serif;padding:12px 0}p{margin:.8em 0}code{overflow-wrap:anywhere}article{scroll-margin-top:15px}[hidden]{display:none!important}@media(max-width:480px){body{font-size:16px}header,main{padding:15px}}
+
+nav a[aria-current="true"]{font-weight:bold;text-decoration-thickness:2px}
